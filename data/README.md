@@ -1,8 +1,6 @@
-# Data
+# Dataset
 
-## Dataset
-
-### COCTAILL-full
+## COCTAILL-full
 
 COCTAILL – Corpus of course book texts as input to learner language modeling [^1]
 
@@ -13,7 +11,7 @@ COCTAILL – Corpus of course book texts as input to learner language modeling [
 | 69   | Download      | 100         | Swedish CoNLL17 corpus | 3010472         | Word2Vec Continuous Skipgram           |
 | 173  | Download      | ?           | Swedish CoNLL17 corpus | ?               | Embeddings from Language Models (ELMo) |
 
-# References
+## References
 
 [^1]: Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you
 annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language.
