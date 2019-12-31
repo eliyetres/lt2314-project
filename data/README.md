@@ -2,7 +2,7 @@
 
 ## COCTAILL-full
 
-COCTAILL – Corpus of course book texts as input to learner language modeling [^1]
+COCTAILL – Corpus of course book texts as input to learner language modeling [1]
 
 ## Word vectors
 
@@ -13,7 +13,7 @@ COCTAILL – Corpus of course book texts as input to learner language modeling [
 
 ## References
 
-[^1]: Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you
+[1]: Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you
 annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language.
 Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT
 Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144.
