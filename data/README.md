@@ -2,7 +2,7 @@
 
 ## COCTAILL-full
 
-COCTAILL – Corpus of course book texts as input to learner language modeling [1]
+COCTAILL – Corpus of course book texts as input to learner language modeling. The COCTAILL corpus contains aproximatley 800.000 tokens of Swedish texts from coursebooks aimed at second/foreign language (L2) learning. [1]
 
 ## Word vectors
 
